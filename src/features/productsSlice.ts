@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 import type { PayloadAction } from "@reduxjs/toolkit";
-import { Product } from './../models/models';
+import { Product } from "../models/models";
 
 
 
